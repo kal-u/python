@@ -5,7 +5,7 @@ import os
 import sys
 import pyfiglet 
 
-os.system('cls')
+os.system('clear')
 ascii_banner = pyfiglet.figlet_format("Port Scanner")
 print(ascii_banner) 
 
