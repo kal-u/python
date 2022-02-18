@@ -22,7 +22,7 @@ except:
 
 
 screenLock = Semaphore(value=1)
-debug = 0
+debug = 1
 port_min = 1
 port_max = 1024
 open_ports = []
